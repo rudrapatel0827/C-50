@@ -1,0 +1,19 @@
+h1{
+    color:springgreen
+}
+h2{
+    color:rgb(13, 154, 179)
+}
+h3{
+    color:rgb(137, 54, 179)
+}
+.header{
+    background-color:steelblue;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
